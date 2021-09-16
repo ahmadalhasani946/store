@@ -1,0 +1,61 @@
+.error {
+    color: red;
+    font-weight: 400;
+    display: block;
+    padding: 6px 0;
+    font-size: 14px;
+}
+
+.form-control.error {
+    border-color: red;
+    padding: .375rem .75rem;
+}
+
+.cp-menu{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.cp-menu:hover{
+    background-color: grey !important;
+}
+
+.active-menu:hover{
+    background-color: whitesmoke !important;
+    color: #c90000 !important;
+}
+
+#SearchButton{
+    background-color: gray;
+    color:white;
+}
+
+.form-label{
+    font-size: 20px;
+}
+
+.manipulated{
+    margin-left:50px;
+    margin-top:15px;
+}
+
+.content{
+    margin-top: 50px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.content h4{
+    margin-top: 20px;
+    text-align: center;
+    color: grey;
+}
+
+.content li{
+    font-size: 20px;
+}
+
+#GoBack{
+    background-color: gray;
+}
